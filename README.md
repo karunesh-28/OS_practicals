@@ -1,1 +1,1 @@
-# OS_practicals
+# Operatingsystem_practicals
